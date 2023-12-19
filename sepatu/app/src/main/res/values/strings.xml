@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sepatu</string>
+    <string name="background_app">Background App</string>
+    <string name="vans">Vans</string>
+    <string name="old_skool">Vans Old Skool</string>
+    <string name="desc">You Always get the a fit</string>
+    <string name="color">Color</string>
+    <string name="add_cart">Add Cart</string>
+    <string name="size">Size</string>
+</resources>

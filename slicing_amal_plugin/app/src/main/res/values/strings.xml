@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Latihan Slicing</string>
+    <string name="title_content">Donate for kids to their well being</string>
+    <string name="name_org">Isha Foundation</string>
+    <string name="description">We accomplish this through our unique network of health professionals and orga nization committed to improving health policies and practices, Isha Foundation is a nonprofit providing life saving medical care to children aims at creating a long and </string>
+    <string name="more">+more</string>
+    <string name="donate">2000+ Donated</string>
+    <string name="total_money_title">Total Donation</string>
+    <string name="total_money">$3456.08</string>
+    <string name="text_button">Donate now</string>
+</resources>
